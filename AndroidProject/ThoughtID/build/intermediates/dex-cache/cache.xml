@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_6b44f46b4cea011dc977729f33d706977475ef2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\.gradle\caches\modules-2\files-2.1\com.googlecode.json-simple\json-simple\1.1\5e303a03d04e6788dddfa3655272580ae0fc13bb\json-simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\json-simple-1.1_e4c8201312f601f2be37e3e54367907c018d4174.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_15035e036b5358a3df50eed7d57924a1a83932dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\gson-2.8.2_ed077b8c988845b3aeb8aab0f85295e158317298.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_2b81f307defee76284d09742a26506913254699f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\httpcore-4.4.1_b80baf22013dd97311ac6ee32e1fd1d2ad37b3dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_e2c3355d8dd43c3673d254b2c9892152d1f1ae8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_54322a9751d86b9ced78b8bfdd82badaf4a9970a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0-alpha1_e193c8d15160a5d50976c5888b872868f73782f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_1d9c396ccb400c4388a35f1a2d080e5494c26a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_0b18f503540e1c02471e1bc9c7876dafcd98d7e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_040002ce93d324ec2249214f778564d0e44f0f2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0-alpha1_3c1d619fcba43b5df29a59130eba4a32ff37c51d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_eb1ddd694ac90eee06eb2931b630ab0eb41b5266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\glide-3.7.0_b19f3051fa995d1cc4899be9bed8039d52485f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_ba20bd09b912cebf8bdbf23ef0579e741644b557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_7d5f0691cf08341d513056281a6c454fcdf330ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_ca7e326fc3eef0cd69bfa377ecd2b4df3e902761.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_4b468096e9aff1c1250e92beb0890deb6159b9d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Omnipotent\Downloads\brainNet-sai\AndroidProject\ThoughtID\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_b3ae7091d68a940484c18ddbb0ec6a8ac3cf3ed6.jar" />
+    </item>
+
+</items>
