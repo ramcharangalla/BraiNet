@@ -24,3 +24,6 @@ File Details
 3. processedTransformedData.csv contains the transformed data for 10 users
 4. AndroidProject folder contains the code for the android app
 5. Preprocessing.ipynb contains the data pre-processing and the machine learning 
+
+
+Project Demo - https://youtu.be/BTa_Hsii1-o
